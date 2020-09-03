@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Simple 'Hello World' application",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "author": "Kelsey Mok",
+  "homepage": "https://github.com/kelseymok/hello-world",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "winston": "^3.3.3",
+    "heartbeats": "^5.0.1"
+  }
+}
